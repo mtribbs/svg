@@ -1,0 +1,12 @@
+<svg width="360" height="360" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <symbol id="diamond" viewbox="0 0 360 360">
+        <polyline points="10,10 140,220 280,10 10,10" stroke="black" stroke-width="10"
+        stroke-linecap="round" stroke-linejoin="round"/>
+        <line x1="10" y1="10" x2="140" y2="80"
+        stroke="black" stroke-width="10" stroke-linecap="round"/>
+        <line x1="280" y1="10" x2="140" y2="80"
+        stroke="black" stroke-width="10" stroke-linecap="round"/>
+        <line x1="140" y1="80" x2="140" y2="220"
+        stroke="black" stroke-width="10" stroke-linecap="round"/>
+    </symbol>
+</svg>
