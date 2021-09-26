@@ -1,5 +1,5 @@
 <svg width="360" height="360" fill="none" xmlns="http://www.w3.org/2000/svg"> 
-    <symbol id="red-delete" viewbox="0 0 360 360">    
+    <symbol id="red-circle" viewbox="0 0 360 360">
         <circle cx="180" cy="180" r="160" style="fill:red"/>
         <line x1="120" y1="120" x2="240" y2="240" stroke-width="15" stroke="white"/>
         <line x1="120" y1="240" x2="240" y2="120" stroke-width="15" stroke="white"/>
